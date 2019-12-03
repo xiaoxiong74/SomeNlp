@@ -12,3 +12,6 @@
 > * [基于rnn(lstm\gru)的文本分类器](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_classifier/rnn_classifier.py)
 > * [基于textcnn的文本分类器](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_classifier/textcnn_classifier.py)
 > * [基于bert的文本分类器](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_classifier/bert_classifier.py)
+* 文本匹配[text_matching](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_matching)
+> * [基于bert+bilstm的文本匹配](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_matching/ada_bert_classfier.py)
+> * [基于ESIM的短文本匹配](https://github.com/xiaoxiong74/SomeNlp/blob/master/text_matching/esim.py)
