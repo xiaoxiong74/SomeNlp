@@ -7,6 +7,7 @@
 * [智能客服问题相似度算法设计——第三届魔镜杯大赛第12名解决方案](https://www.jianshu.com/p/827dd447daf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)[github](https://github.com/LittletreeZou/Question-Pairs-Matching)
 * [一篇基于bert做相似度匹配的各种实验 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
 * [文本匹配的相关模型DSSM,ESIM,ABCNN,BIMPM等实现](https://blog.csdn.net/pengmingpengming/article/details/88534968)[github](https://github.com/pengming617/text_matching)
+* [ESIM的keras实现](https://www.kaggle.com/lamdang/dl-models/code)
 
 ## 点击率预估
 * [2019大数据挑战赛rank5](https://github.com/LiuYaKu/2019-rank5)
