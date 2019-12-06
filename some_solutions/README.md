@@ -8,6 +8,8 @@
 * [一篇基于bert做相似度匹配的各种实验 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
 * [文本匹配的相关模型DSSM,ESIM,ABCNN,BIMPM等实现](https://blog.csdn.net/pengmingpengming/article/details/88534968)[github](https://github.com/pengming617/text_matching)
 * [ESIM的keras实现](https://www.kaggle.com/lamdang/dl-models/code)
+* [DSSM+ConvNet+ESIM+ABCNN+BiMPM+DIIN+DRCN 的实现](https://github.com/terrifyzhao/text_matching)
 
 ## 点击率预估
+* [2019年腾讯广告算法大赛冠军方案](https://zhuanlan.zhihu.com/p/85520936)
 * [2019大数据挑战赛rank5](https://github.com/LiuYaKu/2019-rank5)
