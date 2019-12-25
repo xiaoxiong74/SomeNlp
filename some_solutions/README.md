@@ -13,3 +13,10 @@
 ## 点击率预估
 * [2019年腾讯广告算法大赛冠军方案](https://zhuanlan.zhihu.com/p/85520936)
 * [2019大数据挑战赛rank5](https://github.com/LiuYaKu/2019-rank5)
+
+
+## 文本分类
+* [2019 CCF BDCI 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
+* [2019 CCF BDCI 金融信息负面及主体判定第三名方案](https://github.com/Chevalier1024/CCF-BDCI-ABSA)
+* [2019 CCF BDCI “技术需求”与“技术成果”项目之间关联度计算模型第一名解决方案](https://github.com/Makaixin/Correlation-between-requirements-and-achievements)
+* 
