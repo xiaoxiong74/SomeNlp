@@ -3,6 +3,10 @@
 本项目旨在收集一些NLP相关的任务实现示例，为后续相关任务实现提供一些参考，仅对NLP入门者有一定的参考意义。
 *  [一些竞赛的解决方案](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 > *  [文本相似度匹配](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
+> *  [点击率预估](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
+> *  [文本分类](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
+> *  [实体识别](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
+> *  [关联度计算](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 * 关系抽取(三元组抽取)  [relation_extract](https://github.com/xiaoxiong74/SomeNlp/tree/master/relation_extract)
 > * [基于bert关系抽取](https://github.com/xiaoxiong74/SomeNlp/tree/master/relation_extract/bert_relation_extract.py)
 > * [基于dgcnn(膨胀门卷积)关系抽取](https://github.com/xiaoxiong74/SomeNlp/tree/master/relation_extract/dgcnn_without_ds.py)
