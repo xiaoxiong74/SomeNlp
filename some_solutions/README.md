@@ -17,10 +17,15 @@
 
 ## 文本分类
 * [2019 CCF BDCI 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
+* [智源&计算所-互联网虚假新闻检测挑战赛](https://www.biendata.com/models/category/3529/L_notebook/)
+
 
 ## 实体识别
 * [2019 CCF BDCI 金融信息负面及主体判定第三名方案](https://github.com/Chevalier1024/CCF-BDCI-ABSA)
+* [2019 CCF BDCI 金融信息负面及主体判定 冠军方案解析](https://zhuanlan.zhihu.com/p/99222193)
 
 ## 关联度计算
 * [2019 CCF BDCI “技术需求”与“技术成果”项目之间关联度计算模型第一名解决方案](https://github.com/Makaixin/Correlation-between-requirements-and-achievements)
-* 
+
+
+## 非文本类
