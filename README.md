@@ -4,7 +4,7 @@
 *  [一些竞赛的解决方案](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 > *  [文本相似度匹配](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 > *  [点击率预估](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
-> *  [文本分类](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
+> *  [文本分类(虚假新闻)](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 > *  [实体识别](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 > *  [关联度计算](https://github.com/xiaoxiong74/SomeNlp/tree/master/some_solutions)
 * 关系抽取(三元组抽取)  [relation_extract](https://github.com/xiaoxiong74/SomeNlp/tree/master/relation_extract)
