@@ -23,6 +23,7 @@
 ## 实体识别
 * [2019 CCF BDCI 金融信息负面及主体判定第三名方案](https://github.com/Chevalier1024/CCF-BDCI-ABSA)
 * [2019 CCF BDCI 金融信息负面及主体判定 冠军方案解析](https://zhuanlan.zhihu.com/p/99222193)
+* [2019之江杯——电商评论观点挖掘 亚军方案](https://zhuanlan.zhihu.com/p/115851256)
 
 ## 关联度计算
 * [2019 CCF BDCI “技术需求”与“技术成果”项目之间关联度计算模型第一名解决方案](https://github.com/Makaixin/Correlation-between-requirements-and-achievements)
